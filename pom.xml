@@ -67,7 +67,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.15</version>
+            <version>8.0.28</version>
         </dependency>
 
         <!--Swagger-UI API文档生产工具    swagger-ui是html,css,javascript的一个集合，可以动态地根据注解生成在线API文档   -->
